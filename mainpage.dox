@@ -1,0 +1,12 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+\b tf_remapper 
+
+Subscribes to a tf2_msgs::TFMessage and republishes it as a geometry_msgs::PoseWithCovarianceStamped.
+
+-->
+
+
+*/
