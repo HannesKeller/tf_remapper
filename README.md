@@ -4,7 +4,7 @@ TF Remapper
 Overview
 ---------------
 
-This [ROS] package contains a simple node to republish [tf2_msgs/TFMessage] as [geometry_msgs/PoseWithCovarianceStamped.]
+This [ROS] package contains a simple node to republish [tf2_msgs/TFMessage] as [geometry_msgs/PoseWithCovarianceStamped].
 
 **Author: Hannes Keller, kellerh@student.ethz.ch<br />
 Affiliation: Autonomous Systems Lab, ETH Zurich**
